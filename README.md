@@ -1,2 +1,2 @@
 # desafio_git_github
-Primeiro repositório
+Primeiro repositório praticando os comandos e processos ensinados nas aulas.
